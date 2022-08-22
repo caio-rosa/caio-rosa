@@ -3,7 +3,7 @@
 Estudante de programação e um grande entusiasta de tecnologia. ❤️😊
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-rosa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-rosa&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-rosa&layout=compact)
 
 ## Tecnologias que uso 💻
 
